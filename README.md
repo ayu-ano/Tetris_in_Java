@@ -17,7 +17,7 @@ To run the Tetris game on your local machine, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/tetris-game.git
+    git clone https://github.com/ayu-ano/tetris-game.git
     cd tetris-game
     ```
 
