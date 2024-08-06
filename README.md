@@ -1,6 +1,6 @@
 # Tetris_in_Java
 
-![Tetris Game Screenshot](tetris.png disappear.png last_output.png README.md scorecard.png terminal-output.png)
+![Tetris Game Screenshot](Tetris_in_Java\Tetris\out\tetris.png)
 
 ## Overview
 Welcome to the Tetris Game implemented in Java using Swing! This project is a classic Tetris game with a graphical interface, showcasing the use of Java for creating interactive and visually appealing games.
