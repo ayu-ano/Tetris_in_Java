@@ -1,6 +1,6 @@
 # Tetris_in_Java
 
-![Tetris Game Screenshot](Tetris/out/tetris.png)
+![Tetris Game Screenshot](Tetris/out/one_block.png)
 
 ## Overview
 Welcome to the Tetris Game implemented in Java using Swing! This project is a classic Tetris game with a graphical interface, showcasing the use of Java for creating interactive and visually appealing games.
@@ -48,16 +48,14 @@ To run the Tetris game on your local machine, follow these steps:
 Include some screenshots to give users a visual representation of the game:
 
 ### Gameplay
-![Gameplay Screenshot](path/to/gameplay-screenshot.png)
+![Gameplay Screenshot](Tetris/out/blocks.png)  ![Gameplay Screenshot](Tetris/out/perfect_slice.png)
+![Gameplay Screenshot](Tetris/out/disappear.png)
+
+### Terminal Output
+![Terminal Output](Tetris/out/terminal-output.png)
+![Terminal Output](Tetris/out/last_output.png)
 
 ### Game Over Screen
-![Game Over Screenshot](path/to/gameover-screenshot.png)
+![Game Over Screenshot](Tetris/out/scorecard.png)
 
-## Contributing
-If you'd like to contribute to the project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-## Acknowledgements
-Special thanks to [Any Contributors or Resources].
